@@ -1,5 +1,5 @@
 # RxActivity
-A more easier way to use startActivityForResult
+A more easier way to use startActivityForResult with RxJava 3.1.0
 
 ## here is the demo
 ```
